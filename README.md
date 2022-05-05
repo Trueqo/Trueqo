@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+<img alt="GIF" src="https://github.com/Trueqo/Imagenes/blob/main/Readme/guts-berserk-guts.gif?raw=true" />
+</p>
 
 <!--
 **Trueqo/Trueqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
